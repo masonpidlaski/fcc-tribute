@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <html>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://github.com/masonpidlaski/fcc-tribute/edit/main/README.md/styles.css">
 <meta charset="UTF-8">
 
 <main id="main">
